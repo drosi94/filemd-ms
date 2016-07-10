@@ -1,0 +1,31 @@
+{
+  "name": "filemd-ms",
+  "version": "1.0.0",
+  "description": "API tutorial for freecodecamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drosi94/filemd-ms.git"
+  },
+  "keywords": [
+    "file",
+    "metadata",
+    "freecodecamp",
+    "api"
+  ],
+  "author": "drosi94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drosi94/filemd-ms/issues"
+  },
+  "homepage": "https://github.com/drosi94/filemd-ms#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "multer": "^1.1.0"
+  }
+}
